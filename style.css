@@ -18,10 +18,12 @@ button {
 body {
   background-color: #121214;
   color: #ffffff;
+  height: 100vh;
 }
 
 .container {
-  max-width: 720px;
+  max-width: 588px;
+  width: 100%;
   margin: 0 auto;
   padding: 20px 32px;
 }
